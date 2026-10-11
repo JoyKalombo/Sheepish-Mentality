@@ -6,3 +6,4 @@ dist/
 firebase-creds.json
 .DS_Store
 server/data/
+server/model-cache/
