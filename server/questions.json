@@ -1,0 +1,3404 @@
+[
+  {
+    "type": "open",
+    "question": "What's the best pizza topping?"
+  },
+  {
+    "type": "open",
+    "question": "Name a fruit that feels luxurious."
+  },
+  {
+    "type": "open",
+    "question": "What's the most annoying sound?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best way to eat eggs?"
+  },
+  {
+    "type": "open",
+    "question": "Name a country you'd love to visit."
+  },
+  {
+    "type": "open",
+    "question": "What's the most overrated movie?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best sandwich filling?"
+  },
+  {
+    "type": "open",
+    "question": "Name a colour that feels expensive."
+  },
+  {
+    "type": "open",
+    "question": "What's the best day of the week?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most comforting hot drink?"
+  },
+  {
+    "type": "open",
+    "question": "Name a job that sounds glamorous."
+  },
+  {
+    "type": "open",
+    "question": "What's the worst thing to forget at home?"
+  },
+  {
+    "type": "open",
+    "question": "Name an animal people are unreasonably scared of."
+  },
+  {
+    "type": "open",
+    "question": "What's the best board game of all time?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most useless school subject?"
+  },
+  {
+    "type": "open",
+    "question": "Name something you'd hate to find in your bed."
+  },
+  {
+    "type": "open",
+    "question": "What's the best TV show ever?"
+  },
+  {
+    "type": "open",
+    "question": "Name a smell that instantly makes you nostalgic."
+  },
+  {
+    "type": "open",
+    "question": "What's the first thing you'd buy if you won the lottery?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most universally disliked vegetable?"
+  },
+  {
+    "type": "open",
+    "question": "Name a drink you associate with a party."
+  },
+  {
+    "type": "open",
+    "question": "What's the most boring sport to watch?"
+  },
+  {
+    "type": "open",
+    "question": "Name a profession people lie about being."
+  },
+  {
+    "type": "open",
+    "question": "What's the best type of cheese?"
+  },
+  {
+    "type": "open",
+    "question": "Name a condiment you couldn't live without."
+  },
+  {
+    "type": "open",
+    "question": "What's the scariest sea creature?"
+  },
+  {
+    "type": "open",
+    "question": "What's a name that sounds powerful?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most awkward place to run into an ex?"
+  },
+  {
+    "type": "open",
+    "question": "Name something people pretend to like."
+  },
+  {
+    "type": "open",
+    "question": "What's the worst chore in the house?"
+  },
+  {
+    "type": "open",
+    "question": "What's the first thing you notice about someone?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most iconic decade for music?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best chocolate bar?"
+  },
+  {
+    "type": "open",
+    "question": "Name a fast food chain that's secretly elite."
+  },
+  {
+    "type": "open",
+    "question": "What's the worst time to get a phone call?"
+  },
+  {
+    "type": "open",
+    "question": "What's a hobby everyone thinks they're good at?"
+  },
+  {
+    "type": "open",
+    "question": "Name a superpower that would be more trouble than it's worth."
+  },
+  {
+    "type": "open",
+    "question": "What's a job you'd never want to do?"
+  },
+  {
+    "type": "open",
+    "question": "What's something people always forget to pack for a holiday?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best way to start the day?"
+  },
+  {
+    "type": "open",
+    "question": "What's a smell that instantly wakes you up?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best thing to dip chips in?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst time of day?"
+  },
+  {
+    "type": "open",
+    "question": "What's the ultimate comfort food?"
+  },
+  {
+    "type": "open",
+    "question": "What should you never say on a first date?"
+  },
+  {
+    "type": "open",
+    "question": "Name a kitchen item you wouldn't want to live without."
+  },
+  {
+    "type": "open",
+    "question": "What's something you'd never want to find in your fridge?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most satisfying thing to pop?"
+  },
+  {
+    "type": "open",
+    "question": "Who's the most iconic cartoon character?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most binge-worthy show on Netflix?"
+  },
+  {
+    "type": "open",
+    "question": "What's a song that everyone pretends to know the lyrics to?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most quotable movie of all time?"
+  },
+  {
+    "type": "open",
+    "question": "Name a celebrity who'd be great at pub quizzes."
+  },
+  {
+    "type": "open",
+    "question": "What's the most overplayed song of all time?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best fictional villain?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst thing to say in a group chat?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most awkward place to laugh?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best excuse to leave a boring party?"
+  },
+  {
+    "type": "open",
+    "question": "What's a lie people tell at work?"
+  },
+  {
+    "type": "open",
+    "question": "What's something you pretend to understand but don't?"
+  },
+  {
+    "type": "open",
+    "question": "Name a place people pretend they want to visit."
+  },
+  {
+    "type": "open",
+    "question": "What's the worst mode of transport?"
+  },
+  {
+    "type": "open",
+    "question": "Name a holiday destination that's probably overrated."
+  },
+  {
+    "type": "open",
+    "question": "What's the worst seat on a plane?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most stressful part of travelling?"
+  },
+  {
+    "type": "open",
+    "question": "What animal would make the worst pet?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most chaotic kitchen utensil?"
+  },
+  {
+    "type": "open",
+    "question": "What fruit sounds posh but isn't?"
+  },
+  {
+    "type": "open",
+    "question": "What's the least useful superpower?"
+  },
+  {
+    "type": "open",
+    "question": "What's the funniest object to trip over?"
+  },
+  {
+    "type": "open",
+    "question": "What would be the weirdest thing to find in a wallet?"
+  },
+  {
+    "type": "open",
+    "question": "What's an emotion people pretend not to feel?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best feeling in the world?"
+  },
+  {
+    "type": "open",
+    "question": "What's something that always cheers people up?"
+  },
+  {
+    "type": "open",
+    "question": "What's a fear most people won't admit?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most underrated human trait?"
+  },
+  {
+    "type": "open",
+    "question": "What's an emotion that feels contagious?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most embarrassing emotion to show in public?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best kind of video to binge-watch on YouTube?"
+  },
+  {
+    "type": "open",
+    "question": "Who is the most entertaining type of YouTuber?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst kind of content on YouTube?"
+  },
+  {
+    "type": "open",
+    "question": "What's the first thing you'd search if you opened YouTube right now?"
+  },
+  {
+    "type": "open",
+    "question": "What's something that always shows up in your YouTube recommendations?"
+  },
+  {
+    "type": "open",
+    "question": "What's a YouTube trend that needs to end?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most addictive type of content?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best exercise for people who hate exercise?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst part of going to the gym?"
+  },
+  {
+    "type": "open",
+    "question": "What's a sport people pretend to like?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most satisfying bodyweight exercise?"
+  },
+  {
+    "type": "open",
+    "question": "What's a workout people say they do but probably don't?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best post-workout snack?"
+  },
+  {
+    "type": "open",
+    "question": "What's a fitness goal people lie about?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most annoying sound at home?"
+  },
+  {
+    "type": "open",
+    "question": "What's something you always misplace?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst thing to step on barefoot?"
+  },
+  {
+    "type": "open",
+    "question": "What's the cosiest room in the house?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most unnecessary item in the kitchen?"
+  },
+  {
+    "type": "open",
+    "question": "What's something everyone forgets to clean?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best thing about being at home?"
+  },
+  {
+    "type": "open",
+    "question": "What's something people say they'll start on Monday but never do?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most common New Year's resolution?"
+  },
+  {
+    "type": "open",
+    "question": "What's something people spend too much money on?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best time of day to shower?"
+  },
+  {
+    "type": "open",
+    "question": "What's a habit that's surprisingly hard to break?"
+  },
+  {
+    "type": "open",
+    "question": "What's the best way to relax after a long day?"
+  },
+  {
+    "type": "open",
+    "question": "What's the first thing most people do when they wake up?"
+  },
+  {
+    "type": "open",
+    "question": "What's something people do just for the aesthetic?"
+  },
+  {
+    "type": "open",
+    "question": "What's something you should do daily but don't?"
+  },
+  {
+    "type": "open",
+    "question": "What's a job people romanticise but wouldn't actually enjoy?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most stressful job in the world?"
+  },
+  {
+    "type": "open",
+    "question": "What's a job that sounds boring but pays well?"
+  },
+  {
+    "type": "open",
+    "question": "What's a job that's cooler in movies than real life?"
+  },
+  {
+    "type": "open",
+    "question": "What's something people lie about on their CV?"
+  },
+  {
+    "type": "open",
+    "question": "What's the worst thing about working in an office?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most common reason people leave a job?"
+  },
+  {
+    "type": "open",
+    "question": "What's the dream job people secretly wish they had?"
+  },
+  {
+    "type": "open",
+    "question": "What's a job you could never do?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most useful subject at school?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most pointless subject at school?"
+  },
+  {
+    "type": "open",
+    "question": "What subject do people pretend to understand?"
+  },
+  {
+    "type": "open",
+    "question": "What's the easiest subject to bluff your way through?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most fun after-school club?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most dreaded school activity?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most iconic school trip destination?"
+  },
+  {
+    "type": "open",
+    "question": "What's a skill you wish school taught?"
+  },
+  {
+    "type": "open",
+    "question": "What's a school rule everyone secretly broke?"
+  },
+  {
+    "type": "open",
+    "question": "What's the most desirable single-digit number? Write your answer as a NUMERICAL FIGURE."
+  },
+  {
+    "type": "open",
+    "question": "Which age is the best as a teenager? Write your answer as a NUMERICAL FIGURE."
+  },
+  {
+    "type": "open",
+    "question": "How many jobs do you think you'll work in your life? Write your answer as a NUMERICAL FIGURE."
+  },
+  {
+    "type": "open",
+    "question": "What is the most desirable season?"
+  },
+  {
+    "type": "open",
+    "question": "What is the best letter in the alphabet?"
+  },
+  {
+    "type": "open",
+    "question": "What is the best day of the week?"
+  },
+  {
+    "type": "open",
+    "question": "What is the best month of the year?"
+  },
+  {
+    "type": "mc",
+    "question": "What's the best hot drink?",
+    "options": [
+      "Tea",
+      "Coffee",
+      "Hot chocolate",
+      "Mulled wine"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which pet is the most low-maintenance?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fish",
+      "Hamster"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would you bring to a desert island?",
+    "options": [
+      "A book",
+      "A knife",
+      "Sunscreen",
+      "A speaker"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to spend a Sunday?",
+    "options": [
+      "Watching TV",
+      "Cleaning",
+      "Going out",
+      "Sleeping in"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which breakfast food reigns supreme?",
+    "options": [
+      "Pancakes",
+      "Cereal",
+      "Eggs & toast",
+      "Smoothie"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which school subject causes the most stress?",
+    "options": [
+      "Maths",
+      "Science",
+      "English",
+      "History"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most overrated social media platform?",
+    "options": [
+      "Instagram",
+      "TikTok",
+      "Twitter/X",
+      "Facebook"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the first thing you do when you get home?",
+    "options": [
+      "Take off your shoes",
+      "Go to the fridge",
+      "Sit on the sofa",
+      "Check your phone"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best type of weather?",
+    "options": [
+      "Sunny and warm",
+      "Rainy and cosy",
+      "Cold and crisp",
+      "Cloudy and mild"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to watch a movie?",
+    "options": [
+      "In a cinema",
+      "On a sofa at home",
+      "On a laptop in bed",
+      "With friends and snacks"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which video game genre is the most fun?",
+    "options": [
+      "Action",
+      "Puzzle",
+      "Sports",
+      "Role-playing"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best type of reality TV show?",
+    "options": [
+      "Dating",
+      "Cooking",
+      "Survival",
+      "Talent"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best time to work out?",
+    "options": [
+      "Early morning",
+      "Midday",
+      "Evening",
+      "Whenever you feel like it"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the healthiest habit to develop?",
+    "options": [
+      "Drinking more water",
+      "Going to bed early",
+      "Daily walks",
+      "Meditation"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best gym accessory?",
+    "options": [
+      "Resistance bands",
+      "Dumbbells",
+      "Yoga mat",
+      "Foam roller"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which chore do people procrastinate the most?",
+    "options": [
+      "Doing the laundry",
+      "Taking the bins out",
+      "Washing the dishes",
+      "Cleaning the bathroom"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the coziest item in a house?",
+    "options": [
+      "Blanket",
+      "Slippers",
+      "Sofa",
+      "Dressing gown"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best room to nap in?",
+    "options": [
+      "Bedroom",
+      "Living room",
+      "Home office",
+      "Anywhere, if you’re tired enough"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best part of the school day?",
+    "options": [
+      "Lunch",
+      "Break time",
+      "Last lesson",
+      "PE"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most fun extracurricular activity?",
+    "options": [
+      "Drama club",
+      "Sports team",
+      "Music group",
+      "Debate club"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which school supply is most satisfying to buy?",
+    "options": [
+      "Pens",
+      "Notebooks",
+      "Highlighters",
+      "A fresh backpack"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to wake up?",
+    "options": [
+      "Naturally with sunlight",
+      "Alarm clock",
+      "Coffee smell",
+      "Someone else waking you"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which pasta shape feels the fanciest?",
+    "options": [
+      "Tagliatelle",
+      "Penne",
+      "Farfalle",
+      "Spaghetti"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which item would most people rescue first in a fire (after people/pets)?",
+    "options": [
+      "Phone",
+      "Passport",
+      "Laptop",
+      "Wallet"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best sauce?",
+    "options": [
+      "Ketchup",
+      "Mayo",
+      "Barbecue",
+      "Sweet chilli"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most likely thing to derail a productive day?",
+    "options": [
+      "Social media",
+      "A nap",
+      "TV",
+      "Unexpected guest"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which smell is the nicest?",
+    "options": [
+      "Fresh bread",
+      "Cut grass",
+      "Vanilla",
+      "Petrol"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most powerful household item?",
+    "options": [
+      "Microwave",
+      "Kettle",
+      "Washing machine",
+      "Vacuum"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the worst time to get hungry?",
+    "options": [
+      "During a meeting",
+      "On a bus",
+      "While in bed",
+      "Right after brushing teeth"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would you most likely do at 3 a.m.?",
+    "options": [
+      "Sleep",
+      "Overthink",
+      "Eat",
+      "Scroll your phone"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best kind of birthday gift?",
+    "options": [
+      "Something handmade",
+      "Something expensive",
+      "A surprise experience",
+      "Cash"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the easiest thing to lie about?",
+    "options": [
+      "Sleep schedule",
+      "Gym habits",
+      "Weekend plans",
+      "Diet"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which smell would you bottle as a perfume?",
+    "options": [
+      "Rain on pavement",
+      "Crispy bacon",
+      "Old books",
+      "Freshly washed clothes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which item do people most often borrow and never return?",
+    "options": [
+      "Pen",
+      "Charger",
+      "Umbrella",
+      "Lighter"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best thing to wear on a lazy day?",
+    "options": [
+      "Pyjamas",
+      "Joggers",
+      "Oversized hoodie",
+      "Dressing gown"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which animal secretly runs the world?",
+    "options": [
+      "Cats",
+      "Pigeons",
+      "Dolphins",
+      "Rats"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the most elite corner shop snack combo?",
+    "options": [
+      "Lucozade & blue Doritos",
+      "Ribena & Snickers",
+      "Oreo & Yazoo",
+      "Big up cookie & Rubicon Mango"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most disrespectful time for someone to call your name from across the road?",
+    "options": [
+      "When your trim is dead",
+      "When you're with your mum",
+      "When you're wearing sliders",
+      "When you're deep in thought"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most universal reaction when someone says 'allow it'?",
+    "options": [
+      "Pause and laugh",
+      "Back off immediately",
+      "Double down",
+      "Say 'say nothing fam'"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the best chicken shop order?",
+    "options": [
+      "Wings and chips with burger sauce",
+      "Strip burger and Ribena",
+      "Quarter pounder with cheese",
+      "2-piece and fries with chilli sauce"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most likely excuse to be late in South London?",
+    "options": [
+      "Bus took long",
+      "Had to help my nan",
+      "Fell asleep still",
+      "Had to pass through ends first"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the most London way to say you're not interested?",
+    "options": [
+      "Safe still",
+      "Nah I’m good",
+      "Say less",
+      "I hear you but no"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the unspoken code at the back of the bus?",
+    "options": [
+      "Don't sit unless you're known",
+      "Music is allowed, aux is sacred",
+      "Back row = mandem",
+      "Don't chat too loud unless it’s jokes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the most likely reason for a classroom shutdown?",
+    "options": [
+      "Someone got roasted too hard",
+      "Teacher stormed out",
+      "Fire alarm",
+      "Fight over a pen"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which shoe got rinsed the most in secondary school?",
+    "options": [
+      "Black Air Forces",
+      "Nike TNs",
+      "Plimsolls from PE",
+      "JD special Air Max"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most elite drink to grab on the go?",
+    "options": [
+      "Rubicon Mango",
+      "Tropical Vibes",
+      "Oasis",
+      "Old school carton Ribena"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most likely thing to get shouted from a passing car?",
+    "options": [
+      "Wagwan!",
+      "Ay yo big man!",
+      "Safe g!",
+      "Fix your trim!"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most tactical seat on the top deck of a bus?",
+    "options": [
+      "Front row for vibes",
+      "Back row with the mandem",
+      "Middle row to mind your business",
+      "Next to the stairs to get off quick"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the worst offence in a chicken shop?",
+    "options": [
+      "Asking for ketchup only",
+      "Not saying please",
+      "Taking ages to order",
+      "Telling them it's your first time"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most iconic South London phrase?",
+    "options": [
+      "Say nothing",
+      "Swear down",
+      "You're moist",
+      "It’s not that deep"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which school drama caused the biggest uproar?",
+    "options": [
+      "Someone took your blazer",
+      "Someone snaked your bredrin",
+      "A secret relationship got exposed",
+      "A fake rumour spread in tutor time"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the ultimate budget meal from ends?",
+    "options": [
+      "Wings & chips with drink for £2.50",
+      "Beef patty in hardo bread",
+      "Chips in a bun",
+      "Noodles with ketchup at home"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the cheekiest thing someone could ask to borrow?",
+    "options": [
+      "Your charger",
+      "Your Oyster card",
+      "Your headphones",
+      "Your coat"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the go-to excuse when someone gets caught lacking?",
+    "options": [
+      "I weren’t ready still",
+      "I was bare tired",
+      "It’s not that deep",
+      "You man are moist anyway"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s most likely to start an argument in a group chat?",
+    "options": [
+      "No one replied",
+      "Someone aired the joke",
+      "Wrong person added",
+      "Someone moved to someone’s ting"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest lie someone from ends might tell?",
+    "options": [
+      "'I’m five minutes away'",
+      "'I know him from before'",
+      "'I don’t rate her like that'",
+      "'I’m not even bothered fam'"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which corner shop treat slaps the most after school?",
+    "options": [
+      "Fizzy cola bottles",
+      "Fudge bar",
+      "Mini donuts in the bag",
+      "Strawberry laces"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What's the loudest item someone can bring to class?",
+    "options": [
+      "Flamin’ Hot Wotsits",
+      "Tesco meal deal bag",
+      "Big bottle of Lucozade",
+      "Family bag of Haribo"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which phone got roasted the most in school?",
+    "options": [
+      "Nokia brick",
+      "BlackBerry Curve",
+      "Samsung Galaxy Mini",
+      "Any Android, ever"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best time to do a food shop?",
+    "options": [
+      "Early morning",
+      "After work",
+      "Late at night",
+      "Lunchtime on a weekday"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which type of hat has the most attitude?",
+    "options": [
+      "Bucket hat",
+      "Snapback",
+      "Beret",
+      "Beanie"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to eat potatoes?",
+    "options": [
+      "Chips",
+      "Mashed",
+      "Roasties",
+      "Wedges"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these jobs has the worst small talk?",
+    "options": [
+      "Hairdresser",
+      "Taxi driver",
+      "Dentist",
+      "Personal trainer"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most satisfying thing to clean?",
+    "options": [
+      "Mirror",
+      "Kitchen counter",
+      "Phone screen",
+      "Shower glass"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these would you most hate to be stuck in?",
+    "options": [
+      "A lift",
+      "A public toilet",
+      "A traffic jam",
+      "A group project"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these instantly ruins the vibe?",
+    "options": [
+      "Bad WiFi",
+      "Dead aux",
+      "Cold food",
+      "Group chat argument"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to spend unexpected free time?",
+    "options": [
+      "Nap",
+      "Binge-watch a show",
+      "Go for a walk",
+      "Scroll endlessly"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the superior crisp flavour?",
+    "options": [
+      "Salt & vinegar",
+      "Cheese & onion",
+      "Ready salted",
+      "Prawn cocktail"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji carries the most attitude?",
+    "options": [
+      "💅",
+      "🙄",
+      "😏",
+      "🤭"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji best says 'I'm not mad, just disappointed'?",
+    "options": [
+      "😐",
+      "😔",
+      "🙄",
+      "😤"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji screams 'main character energy'?",
+    "options": [
+      "💅",
+      "😎",
+      "👑",
+      "🔥"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji would you send if you're lying but want to seem innocent?",
+    "options": [
+      "😇",
+      "😅",
+      "🙃",
+      "👀"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What emoji do you send when you're flirting but pretending not to?",
+    "options": [
+      "😏",
+      "😬",
+      "😉",
+      "🤭"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji gives off 'I'm exhausted but still fabulous' energy?",
+    "options": [
+      "🥴",
+      "😩",
+      "💅",
+      "🫠"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji best represents 'chaos'?",
+    "options": [
+      "🤪",
+      "🤯",
+      "🔥",
+      "🤡"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What emoji would you use to hype someone up?",
+    "options": [
+      "🔥",
+      "👏",
+      "💪",
+      "🚀"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji is the most unserious?",
+    "options": [
+      "🤡",
+      "🫣",
+      "👀",
+      "🙃"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What emoji do you send when you're in denial but pretending you're fine?",
+    "options": [
+      "😅",
+      "😭",
+      "😶‍🌫️",
+      "🥲"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which emoji screams 'delulu is the solulu'?",
+    "options": [
+      "✨",
+      "🧚",
+      "🫶",
+      "🧠"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When I send 🙃, I actually mean...",
+    "options": [
+      "I'm not okay",
+      "That was shady",
+      "I hate it here",
+      "Just vibes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Sending 💀 after someone’s joke means...",
+    "options": [
+      "I actually laughed",
+      "That was wild",
+      "You’re wrong but funny",
+      "I’m done"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If I hit you with 👀, I'm saying...",
+    "options": [
+      "Explain yourself",
+      "I'm watching",
+      "That was juicy",
+      "I'm lurking"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Dropping 🧼 in a convo means...",
+    "options": [
+      "Clean it up",
+      "That was pure",
+      "You're innocent",
+      "You lying"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which pair says 'messy but I’m thriving'?",
+    "options": [
+      "🤡🔥",
+      "😅💅",
+      "🙃🧨",
+      "🥲👑"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which combo says 'flirty but unserious'?",
+    "options": [
+      "😏😉",
+      "🤭💀",
+      "👀😇",
+      "😬✨"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which duo screams 'delusional & loving it'?",
+    "options": [
+      "🧚✨",
+      "🫠💅",
+      "🤯💖",
+      "👑🥲"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which combo says 'I’m emotionally unavailable but fashionable'?",
+    "options": [
+      "💅🧊",
+      "🧥🙃",
+      "👠🧠",
+      "😎🫥"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When I send 🙃, I actually mean...",
+    "options": [
+      "I'm not okay",
+      "That was shady",
+      "I hate it here",
+      "Just vibes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Sending 💀 after someone’s joke means...",
+    "options": [
+      "I actually laughed",
+      "That was wild",
+      "You’re wrong but funny",
+      "I’m done"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If I hit you with 👀, I'm saying...",
+    "options": [
+      "Explain yourself",
+      "I'm watching",
+      "That was juicy",
+      "I'm lurking"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Dropping 🧼 in a convo means...",
+    "options": [
+      "Clean it up",
+      "That was pure",
+      "You're innocent",
+      "You lying"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best background noise while working?",
+    "options": [
+      "Music",
+      "Rain sounds",
+      "TV show",
+      "Silence"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which drink makes you feel like you have your life together?",
+    "options": [
+      "Smoothie",
+      "Sparkling water",
+      "Matcha latte",
+      "Iced coffee"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which TV genre is the biggest guilty pleasure?",
+    "options": [
+      "Reality dating shows",
+      "True crime",
+      "Cooking competitions",
+      "Makeover shows"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these animals feels oddly wise?",
+    "options": [
+      "Turtle",
+      "Owl",
+      "Elephant",
+      "Dog"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best thing to do during a power cut?",
+    "options": [
+      "Light candles and chill",
+      "Go to sleep",
+      "Tell ghost stories",
+      "Complain until it's back"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which object is most likely to come alive at night?",
+    "options": [
+      "Toaster",
+      "Toilet brush",
+      "Houseplant",
+      "TV remote"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would be the weirdest thing to find in your shoe?",
+    "options": [
+      "Spaghetti",
+      "A hamster",
+      "A tiny version of yourself",
+      "A cold slice of pizza"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which animal is most likely to start a podcast?",
+    "options": [
+      "Parrot",
+      "Sloth",
+      "Goat",
+      "Raccoon"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If you were to marry a vegetable, which would it be?",
+    "options": [
+      "Carrot",
+      "Aubergine",
+      "Broccoli",
+      "Butternut squash"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would be the most dramatic way to leave a party?",
+    "options": [
+      "Smoke bomb",
+      "Backflip out the door",
+      "Pretend to faint",
+      "Leave mid-sentence"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the pettiest reason to cut someone off?",
+    "options": [
+      "Didn’t say happy birthday",
+      "Didn't laugh at your joke",
+      "Liked your ex’s post",
+      "Stole your seat"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most toxic group chat behaviour?",
+    "options": [
+      "Leaving without saying anything",
+      "Screenshotting and sending to someone else",
+      "Changing the name to shade someone",
+      "Ignoring everyone for days"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to win a petty argument?",
+    "options": [
+      "Use big words",
+      "Bring up ancient history",
+      "Pretend not to care",
+      "Cry"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which coworker type is most likely to snitch?",
+    "options": [
+      "The overachiever",
+      "The quiet one",
+      "The one that ‘jokes’ too much",
+      "The one who brings packed lunch daily"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest betrayal?",
+    "options": [
+      "Eating your food",
+      "Talking behind your back",
+      "Cancelling last minute",
+      "Copying your outfit"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most satisfying button to press?",
+    "options": [
+      "Lift button",
+      "Microwave start",
+      "TV remote",
+      "Big red emergency button"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these is the ultimate comfort show?",
+    "options": [
+      "The Office",
+      "Friends",
+      "Bake Off",
+      "Modern Family"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best topping for toast?",
+    "options": [
+      "Peanut butter",
+      "Jam",
+      "Avocado",
+      "Butter"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the worst time to get a phone call?",
+    "options": [
+      "In the toilet",
+      "Mid Netflix",
+      "During sleep",
+      "Just after hitting send on a risky message"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which chore are you most likely to delay?",
+    "options": [
+      "Ironing clothes",
+      "Doing the dishes",
+      "Taking out the bin",
+      "Folding laundry"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best shape of pasta?",
+    "options": [
+      "Penne",
+      "Fusilli",
+      "Spaghetti",
+      "Ravioli"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest distraction while working from home?",
+    "options": [
+      "Snacks",
+      "The sofa",
+      "Phone",
+      "Random chores"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best thing to do on a rainy day?",
+    "options": [
+      "Watch films",
+      "Take a nap",
+      "Clean the house",
+      "Eat something warm"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these is the hardest to keep alive?",
+    "options": [
+      "Houseplants",
+      "Sourdough starter",
+      "New Year's resolutions",
+      "Group chats"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best smell in the world?",
+    "options": [
+      "Fresh bread",
+      "Clean laundry",
+      "Vanilla",
+      "New car smell"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the worst thing to spill?",
+    "options": [
+      "Red wine",
+      "Oil",
+      "Soup",
+      "Coffee"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which pet is secretly chaotic?",
+    "options": [
+      "Cat",
+      "Parrot",
+      "Rabbit",
+      "Chinchilla"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which of these is most likely to cause family drama?",
+    "options": [
+      "Group holiday planning",
+      "Game night",
+      "Who’s cooking",
+      "Sharing WiFi"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most annoying sound?",
+    "options": [
+      "Loud chewing",
+      "Phone on vibrate on a table",
+      "Car alarm",
+      "Mic feedback"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best quick snack?",
+    "options": [
+      "Toast",
+      "Fruit",
+      "Instant noodles",
+      "Crisps"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest red flag on a first date?",
+    "options": [
+      "Talking about their ex",
+      "Being rude to the waiter",
+      "Oversharing",
+      "Checking their phone constantly"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the best way to end a situationship?",
+    "options": [
+      "Ghost",
+      "Long message",
+      "Face-to-face",
+      "Pretend you're moving to another country"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most underrated love language?",
+    "options": [
+      "Acts of service",
+      "Quality time",
+      "Words of affirmation",
+      "Memes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s most likely to ruin the vibe of a romantic night?",
+    "options": [
+      "Bad breath",
+      "Phone call from mum",
+      "Forgetting the plan",
+      "Someone mentioning the group chat"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which gift would raise the most suspicion in a relationship?",
+    "options": [
+      "Expensive jewellery",
+      "Perfume",
+      "Lingerie",
+      "‘Sorry’ card"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Who’s the most annoying coworker?",
+    "options": [
+      "The oversharer",
+      "The micromanager",
+      "The snack thief",
+      "The fake sick-day taker"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the worst time for a meeting?",
+    "options": [
+      "9am Monday",
+      "4:59pm Friday",
+      "During lunch",
+      "Right after drama in the group chat"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the top skill for surviving office life?",
+    "options": [
+      "Small talk",
+      "Pretending to look busy",
+      "Email tone",
+      "Knowing when to mute yourself"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s most likely to trigger a Slack meltdown?",
+    "options": [
+      "Someone using too many emojis",
+      "Passive-aggressive messages",
+      "Delayed replies",
+      "Someone typing for ages then deleting"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest lie in a work email?",
+    "options": [
+      "'Hope you're well'",
+      "'Just looping back on this'",
+      "'Per my last email'",
+      "'Happy Monday!'"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the biggest food ick?",
+    "options": [
+      "Loud chewing",
+      "Food in teeth",
+      "Talking with mouth full",
+      "Double dipping"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which condiment is most likely to start a fight?",
+    "options": [
+      "Ketchup",
+      "Mayonnaise",
+      "Barbecue sauce",
+      "Sriracha"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the worst food to eat on a date?",
+    "options": [
+      "Spaghetti",
+      "Ribs",
+      "Garlic anything",
+      "A whole burrito"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most elite hangover food?",
+    "options": [
+      "Full English",
+      "Greasy chips",
+      "Chinese takeaway",
+      "Cheesy pasta"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s the most stressful kitchen task?",
+    "options": [
+      "Timing everything right",
+      "Chopping onions",
+      "Not burning the garlic",
+      "Doing the dishes after"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If animals could talk, which one would spill the most tea?",
+    "options": [
+      "Cat",
+      "Crow",
+      "Parrot",
+      "Rat"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would you do if your clone showed up at your door?",
+    "options": [
+      "Fight it",
+      "Let it do your job",
+      "Tell no one",
+      "Cry"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What would be the worst household item to become sentient?",
+    "options": [
+      "Toilet",
+      "Fridge",
+      "Mirror",
+      "Sofa"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If time froze for everyone but you for 24 hours, what would you do first?",
+    "options": [
+      "Nap",
+      "Rob a bakery",
+      "Explore",
+      "Panic"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If you had to replace your hands with something, what would you pick?",
+    "options": [
+      "Tongs",
+      "Whisks",
+      "Paintbrushes",
+      "Phone chargers"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "A meeting is on Wednesday. It was brought forward by two days. What day is the meeting now?",
+    "options": [
+      "Monday",
+      "Friday",
+      "Still Wednesday",
+      "Tuesday"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "We do something biweekly. What does that mean?",
+    "options": [
+      "Twice a week",
+      "Once every two weeks",
+      "Every other week",
+      "Depends who you ask"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "How do you pronounce ‘plantain’?",
+    "options": [
+      "Plan-TAIN",
+      "Plan-TIN"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Today is Monday. Your friend arrives 'next Thursday'. When do they arrive?",
+    "options": [
+      "3 days time",
+      "10 days time"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says 'I’ll be there in a sec.' How long are they really going to be?",
+    "options": [
+      "1 second",
+      "Less than a minute",
+      "5–10 minutes",
+      "Longer than you'd like"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Your appointment was moved forward by one hour. What does that mean?",
+    "options": [
+      "It’s an hour earlier",
+      "It’s an hour later"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When someone says 'half seven', what time is it?",
+    "options": [
+      "6:30",
+      "7:30",
+      "Three thirty"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "How do you say the word 'route'?",
+    "options": [
+      "Root",
+      "Rowt",
+      "Either way is fine",
+      "Depends on the sentence"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Which side is the driver’s seat on?",
+    "options": [
+      "Right",
+      "Left"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'I'll be there soon' usually mean?",
+    "options": [
+      "5 minutes",
+      "10 minutes",
+      "Over 20 minutes",
+      "I haven’t even left"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Your alarm goes off at 6:00am. You hit snooze twice (9 minutes each). What time is it now?",
+    "options": [
+      "6:18am",
+      "6:20am",
+      "6:30am",
+      "Too early to care"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "You borrow £20. You give back £10. How much do you owe?",
+    "options": [
+      "£10",
+      "£20",
+      "£30",
+      "It depends"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "A bat and ball cost £1.10. The bat costs £1 more than the ball. How much does the ball cost?",
+    "options": [
+      "10p",
+      "5p",
+      "£1",
+      "None of the above"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Your birthday is on a Saturday this year. What day is it next year?",
+    "options": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Depends if this year's a leap year",
+      "Depends if next year's a leap year"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "You’re told to meet someone at midday. What time do you show up?",
+    "options": [
+      "12:00pm",
+      "12:00am",
+      "Noon",
+      "I need clarification"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "A party starts at 9pm and finishes at 12pm. How long is the party?",
+    "options": [
+      "3 hours",
+      "27 hours",
+      "I need clarification"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s heavier?",
+    "options": [
+      "A kilo of feathers",
+      "A kilo of bricks",
+      "Same weight",
+      "Depends on the wind"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Your friend says ‘let’s link in the evening.’ What time is that?",
+    "options": [
+      "5pm",
+      "6pm",
+      "7pm",
+      "Whenever the sun’s gone"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "A recipe says ‘add one cup of flour’. What size cup?",
+    "options": [
+      "Mug",
+      "Measuring cup",
+      "Teacup",
+      "Whatever's clean"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says they’re ‘round the corner’. Where are they?",
+    "options": [
+      "A minute away",
+      "around the corner",
+      "On the same street",
+      "Still at home",
+      "Already inside"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'I'm five minutes away' *actually* mean?",
+    "options": [
+      "I'm outside",
+      "I'm 15 minutes away",
+      "I've just left",
+      "I'm lying"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'I’ll let you know' usually mean?",
+    "options": [
+      "I forgot",
+      "I'm saying 'no' softly",
+      "They're thinking about it",
+      "You’ll never hear from them again"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Your mate says 'Let’s go out this weekend.' What day do they mean?",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Depends who’s asking"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says 'We should meet early.' What time is that?",
+    "options": [
+      "7am",
+      "9am",
+      "11am",
+      "After breakfast, but before vibes"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What time is 'lunch'?",
+    "options": [
+      "12pm",
+      "1pm",
+      "2pm",
+      "When the work gets long"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "How long is a 'couple of minutes'?",
+    "options": [
+      "2",
+      "3–5",
+      "Up to 10",
+      "They’re still getting dressed"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When someone says 'Do what you want,' what do they actually mean?",
+    "options": [
+      "You’re in trouble",
+      "You have permission",
+      "They’re testing you",
+      "Proceed with fear"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says 'I'll be there shortly.' How far are they?",
+    "options": [
+      "Already outside",
+      "5 minutes away",
+      "Just left",
+      "Still in bed"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "You’re told to bring a 'few' snacks. How many?",
+    "options": [
+      "2–3",
+      "4–5",
+      "More than 5",
+      "Depends on who's hosting"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "The movie starts at 7. What time do you arrive?",
+    "options": [
+      "6:45",
+      "6:59",
+      "7:10",
+      "When the trailers end"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'I might come' actually mean?",
+    "options": [
+      "I'm not coming",
+      "There’s a 50/50 chance",
+      "I'm seeing who else is going",
+      "I'm assessing my other options",
+      "I forgot already"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'no worries if not' actually mean?",
+    "options": [
+      "I *am* slightly worried",
+      "Please say yes",
+      "I’m just being polite",
+      "You'd better do it"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When someone says 'I'm not being funny but…', what’s next?",
+    "options": [
+      "Insult incoming",
+      "Genuine feedback",
+      "Sarcasm",
+      "Brace yourself",
+      "Something funny"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "If you say 'Let me know,' what are you really saying?",
+    "options": [
+      "I'm not chasing you",
+      "I’m done here",
+      "It’s up to you",
+      "You probably won’t"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'Let's touch base' usually mean?",
+    "options": [
+      "We need to talk",
+      "I forgot what we’re doing",
+      "No idea but sounds productive",
+      "Pretend we're aligned"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'It is what it is' really mean?",
+    "options": [
+      "I’ve given up",
+      "I’m numb",
+      "Can’t be bothered",
+      "Life's a mess",
+      "It just is"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "You hear 'We move.' What’s the actual message?",
+    "options": [
+      "We're surviving",
+      "We lost but we pretend we didn’t",
+      "Nothing makes sense",
+      "Keep going anyway"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "When someone says 'Just to play devil’s advocate…'",
+    "options": [
+      "Prepare for unnecessary conflict",
+      "They disagree",
+      "They love arguments",
+      "They want to be edgy",
+      "They want to be helpful"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'Perception is reality' even mean?",
+    "options": [
+      "Image > truth",
+      "Facts are optional",
+      "Fake it ‘til you make it",
+      "Sounds deep but what?"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "You hear 'Let’s put a pin in that.' What happens now?",
+    "options": [
+      "It’s never coming back",
+      "We’ll circle back",
+      "They’re avoiding the question",
+      "Pinned... forever"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'We’ll take this offline' mean?",
+    "options": [
+      "Stop talking",
+      "This is awkward",
+      "You’re exposing too much",
+      "Let’s fight privately"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s really meant by 'Good vibes only'?",
+    "options": [
+      "Don’t bring your feelings here",
+      "Pretend everything’s fine",
+      "We’re not doing emotional labour",
+      "Mask on"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'Just keep doing what you’re doing' actually mean?",
+    "options": [
+      "I have no feedback",
+      "I wasn’t listening",
+      "Stay average",
+      "You’re not my problem"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What’s meant by 'We'll circle back'?",
+    "options": [
+      "We won’t",
+      "I hope you forget",
+      "Maybe in Q4",
+      "I just need this convo to end"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says 'Let’s not reinvent the wheel.' What do they mean?",
+    "options": [
+      "Be lazy but efficient",
+      "Copy someone else",
+      "We’re doing the bare minimum",
+      "No budget for innovation"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'We’ll play it by ear' mean?",
+    "options": [
+      "I don’t know the plan",
+      "Let’s vibe it",
+      "It depends on my mood",
+      "We’re winging it"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'It’s above my pay grade' really mean?",
+    "options": [
+      "Not my problem",
+      "Blame management",
+      "I don’t want to get involved",
+      "I’m ducking responsibility"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does 'We’re all on a journey' usually mean?",
+    "options": [
+      "Nothing makes sense",
+      "There’s no destination",
+      "We’re all struggling",
+      "Sounds deep but is vague"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "Someone says 'I hear you.' What do they probably mean?",
+    "options": [
+      "I disagree but won't say it",
+      "I’m done listening",
+      "You're overreacting",
+      "Let's move on"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What does ASAP *actually* mean?",
+    "options": [
+      "As Slow As Possible",
+      "All Snacks Are Prioritised",
+      "Almost Sleeping And Procrastinating",
+      "Any Sauce Adds Power"
+    ]
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would survive longest in the wild?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to bring vibes to a dead party?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who takes the longest to reply to a message?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would make the best prime minister?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would fold first under interrogation?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to forget their own birthday?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to own a secret burner account?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would you trust least with a secret?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to get ID’d at age 30?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would win in a roast battle?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who is most likely to be late but still stop for food?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who gives main character energy?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would spend £100 on Uber just to avoid walking?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to start drama in a group chat?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would you call first in an emergency?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to chat to a stranger on the bus?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to post a deep quote after an argument?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to forget what the question was?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would survive the longest on a budget holiday?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to accidentally ghost someone they like?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would survive on vibes and vibes alone?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who is most likely to forget what day it is?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would accidentally become famous?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would definitely bring their own speaker to a picnic?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who is most likely to have a burner account?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who has main character energy but is still somehow always late?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would make the worst getaway driver?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who is most likely to leave a voice note that starts with ‘so boom’?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would start a podcast just to talk about their own life?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would get caught laughing at a funeral?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would bring snacks but not share?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to throw subtle shade and call it ‘banter’?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would flirt their way out of a parking ticket?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who is most likely to start a sentence and forget what they were saying?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would get way too emotionally invested in a reality TV show?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would get lost in IKEA and pretend they meant to?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to show up uninvited and still be welcomed in?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would have the best one-liner in a group chat argument?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who would accidentally send a risky text to the wrong person?"
+  },
+  {
+    "type": "pick",
+    "question": "🧍 PICK A PLAYER AMONG US: Who’s most likely to create a playlist for every mood?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to have an affair?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who do you think lost their virginity first?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to end up in a threesome?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who’s most likely to get caught doing something naughty in public?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who gives ‘don’t kiss and tell’ but definitely tells?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to sleep with their ex?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would you not leave alone with your situationship?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would fall in love after a one-night stand?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who flirts even when they’re not trying?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to send a risky text and regret it?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who has probably been on the most sneaky links?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would ghost someone and still double-like their Instagram post?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who’s most likely to date two people from the same friend group?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would you call if you needed a flawless breakup text written?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to catch feelings and deny it the whole time?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would keep dating someone just for the food?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who is most likely to be a secret hopeless romantic?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who’s most likely to try celibacy and fail by week two?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would definitely be someone’s sneaky link and love it?"
+  },
+  {
+    "type": "pick",
+    "question": "😈 PICK A PLAYER AMONG US: Who would turn up to a first date already tipsy?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m here to let you know that a boundary has been crossed. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when something you care about is under threat. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m telling you that something beautiful matters deeply to you. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I remind you that you’ve lost something important. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when you’re disconnected from others and want to be seen. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I nudge you to hide or retreat when you’ve done something against your values. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I push you to make things right when you’ve hurt someone. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I appear when something inside you is deeply unmet or dismissed. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I point out that something feels unsafe or off. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up to remind you that this moment matters. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I let you know that something doesn’t sit right with your sense of justice. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I arrive when something surprising disrupts your expectations. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m the feeling of not being good enough. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when your needs aren’t being heard — sometimes loudly. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I appear when you’re not living in alignment with your values. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show you what you miss or long for. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I come up when someone else has what you want. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I rise when you’re proud of how far you’ve come. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I whisper to you that something is about to change. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I surface when you’re completely overwhelmed and can't process what’s happening. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m that tight feeling in your chest when you want to speak but don’t. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when you feel seen, heard, and valued. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I remind you that you’ve failed your own expectations. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I push you to try again because something still matters. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I appear when everything feels too quiet and you wish someone would notice. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I urge you to protect what matters most — even if you don’t know how. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m the warmth you feel when you’re in the right place with the right people. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m the storm that builds when too many little things go unspoken. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I step in when things feel unfair or unjust — even if they don’t affect you directly. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when it’s time to let go of something — or someone — for good. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m the lightness in your body when you allow yourself to rest. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I rise when the risk is big but the reward might be bigger. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I’m the knot in your stomach that shows up before something important. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I appear when someone surprises you with kindness. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I arrive when you suddenly understand something that was unclear before. Which emotion am I?"
+  },
+  {
+    "type": "emotion",
+    "question": "I show up when you've outgrown something but are afraid to move on. Which emotion am I?"
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😏 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😭 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫣 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💅 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧍 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤠 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🥴 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤡 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😩 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫡 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤑 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😶‍🌫️ in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😬 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 👀 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🔥 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤓 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😤 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 👑 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧠 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😵‍💫 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🎯 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🙃 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😮‍💨 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🎭 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🪞 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💔 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🍿 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😈 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💀 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤯 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫠 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧃 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧊 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 📉 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧸 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🪩 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🥲 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫵 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 📦 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🛸 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🎒 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🪑 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 📵 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🪬 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧼 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😎 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🥹 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫥 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🙄 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 😇 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🥶 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💃 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🎧 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧩 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🐍 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🕺 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫀 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🧿 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🪷 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💼 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🛐 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 📸 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 💢 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🤌 in one word."
+  },
+  {
+    "type": "emoji",
+    "question": "Describe 🫃 in one word."
+  },
+  {
+    "type": "phrase",
+    "question": "The early bird catches the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A picture is worth a thousand ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Let sleeping ____ lie."
+  },
+  {
+    "type": "phrase",
+    "question": "Don’t cry over spilt ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Don’t count your ____ before they hatch."
+  },
+  {
+    "type": "phrase",
+    "question": "Curiosity killed the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Break a ____."
+  },
+  {
+    "type": "phrase",
+    "question": "It’s raining cats and ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Put your best ____ forward."
+  },
+  {
+    "type": "phrase",
+    "question": "The pen is mightier than the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Don’t judge a book by its ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A watched ____ never boils."
+  },
+  {
+    "type": "phrase",
+    "question": "Hit the nail on the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Out of sight, out of ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Speak of the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Too many cooks spoil the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Don’t put all your ____ in one basket."
+  },
+  {
+    "type": "phrase",
+    "question": "Add fuel to the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Bite the ____ that feeds you."
+  },
+  {
+    "type": "phrase",
+    "question": "Caught between a rock and a ____ place."
+  },
+  {
+    "type": "phrase",
+    "question": "I'm not one to hold a ____."
+  },
+  {
+    "type": "phrase",
+    "question": "If all else fails, blame the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Never trust a ____ with your secrets."
+  },
+  {
+    "type": "phrase",
+    "question": "Life hits different when you lose your ____."
+  },
+  {
+    "type": "phrase",
+    "question": "You can’t spell chaos without ____."
+  },
+  {
+    "type": "phrase",
+    "question": "In a past life, I was probably a ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The group chat went silent after the word ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Everything was fine until the ____ arrived."
+  },
+  {
+    "type": "phrase",
+    "question": "I don’t chase, I attract ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The last thing you’d expect to see at brunch is a ____."
+  },
+  {
+    "type": "phrase",
+    "question": "My toxic trait is thinking I can out-____ anything."
+  },
+  {
+    "type": "phrase",
+    "question": "The simulation glitched when I said ____."
+  },
+  {
+    "type": "phrase",
+    "question": "You know it's real when they bring out the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "I could’ve been rich if it weren’t for that one ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Some people are built different. I’m built like a ____."
+  },
+  {
+    "type": "phrase",
+    "question": "I don’t dream of labour, I dream of ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The villain origin story started with a missing ____."
+  },
+  {
+    "type": "phrase",
+    "question": "They asked for honesty, so I gave them ____."
+  },
+  {
+    "type": "phrase",
+    "question": "If vibes were a currency, I’d be paid in ____."
+  },
+  {
+    "type": "phrase",
+    "question": "I knew I was the problem when I chose ____ twice."
+  },
+  {
+    "type": "phrase",
+    "question": "Happiness smells like ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The best part of the day is ____."
+  },
+  {
+    "type": "phrase",
+    "question": "I feel most at peace when I'm with ____."
+  },
+  {
+    "type": "phrase",
+    "question": "You can never have too much ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The perfect hug feels like ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A good friend always brings ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The world needs more ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The best memories start with ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Kindness begins with ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The way to my heart is through ____."
+  },
+  {
+    "type": "phrase",
+    "question": "My love language is basically ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Sundays are for ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A home isn’t a home without ____."
+  },
+  {
+    "type": "phrase",
+    "question": "I recharge my soul with ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The cure for a bad day is ____."
+  },
+  {
+    "type": "phrase",
+    "question": "One thing I’ll never take for granted is ____."
+  },
+  {
+    "type": "phrase",
+    "question": "There’s beauty in simple ____."
+  },
+  {
+    "type": "phrase",
+    "question": "The heart grows when we share ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A moment I wish I could relive is ____."
+  },
+  {
+    "type": "phrase",
+    "question": "When in doubt, choose ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Let the ____ decide."
+  },
+  {
+    "type": "phrase",
+    "question": "Caught red-____."
+  },
+  {
+    "type": "phrase",
+    "question": "Back to the drawing ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Burning the midnight ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Hit the nail on the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "A blessing in ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Barking up the wrong ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Kick the ____ down the road."
+  },
+  {
+    "type": "phrase",
+    "question": "Spill the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Beat around the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Throw someone under the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Under the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Get cold ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Off the top of my ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Pulling your ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Bite the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Hold your ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Put all your ____ in one basket."
+  },
+  {
+    "type": "phrase",
+    "question": "The tip of the ____."
+  },
+  {
+    "type": "phrase",
+    "question": "Every cloud has a silver ____."
+  }
+]
