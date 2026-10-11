@@ -5,3 +5,16 @@ export function similarity(a,b) {
  return a.length+b.length?2*matches(a,b)/(a.length+b.length):1;
 }
 export function herd(answers){const groups=[];for(const [id,answer] of Object.entries(answers)){let g=groups.find(g=>similarity(answer,g.answer)>=.75);if(!g){g={answer,players:[]};groups.push(g);}g.players.push(id);}groups.sort((a,b)=>b.players.length-a.players.length);const winner=groups.length&&groups[0].players.length>1&&(!groups[1]||groups[0].players.length>groups[1].players.length)?groups[0]:null;return {groups,winners:winner?.players||[],answer:winner?.answer||null};}
+
+export function revealRound(room) {
+ if (room.phase !== 'answering' || Object.keys(room.answers).length < 2) return false;
+ room.result = {...herd(room.answers), answers: {...room.answers}};
+ for (const id of room.result.winners) room.players[id].score++;
+ room.phase = 'revealed';
+ return true;
+}
+export function revealIfReady(room) {
+ const players = Object.values(room.players).filter(player => player.online);
+ if (players.length < 2 || !players.every(player => Object.hasOwn(room.answers, player.id))) return false;
+ return revealRound(room);
+}

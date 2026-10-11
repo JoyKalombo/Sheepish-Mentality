@@ -4,7 +4,7 @@ import {Server} from 'socket.io';
 import {readFileSync} from 'node:fs';
 import {randomBytes} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {herd} from './game.js';
+import {revealRound, revealIfReady} from './game.js';
 const questions=JSON.parse(readFileSync(new URL('./questions.json',import.meta.url)));
 const app=express(),http=createServer(app),io=new Server(http,{maxHttpBufferSize:10000});
 const rooms=new Map();
@@ -25,15 +25,15 @@ io.on('connection',socket=>{
   player.online=true;if(!room.host)room.host=player.id;socket.data={code:room.code,id:player.id};socket.join(room.code);ack({ok:true,id:player.id,token:player.token,code:room.code});broadcast(room);
  }catch(e){ack({error:e.message});}});
  socket.on('action',(data,ack)=>{try{const r=rooms.get(socket.data.code),id=socket.data.id;if(!r||!r.players[id])throw Error('Join a room first.');
-  if(data.type==='answer'){if(r.phase!=='answering')throw Error('Answers are closed.');const a=String(data.answer||'').trim().slice(0,120);if(!a)throw Error('Enter an answer.');if(r.question.type==='mc'&&!r.question.options.includes(a))throw Error('Choose an option.');if(r.question.type==='pick'&&!Object.values(r.players).some(p=>p.name===a))throw Error('Choose a player.');r.answers[id]=a;}
+  if(data.type==='answer'){if(r.phase!=='answering')throw Error('Answers are closed.');const a=String(data.answer||'').trim().slice(0,120);if(!a)throw Error('Enter an answer.');if(r.question.type==='mc'&&!r.question.options.includes(a))throw Error('Choose an option.');if(r.question.type==='pick'&&!Object.values(r.players).some(p=>p.name===a))throw Error('Choose a player.');r.answers[id]=a;revealIfReady(r);}
   else {if(r.host!==id)throw Error('Only the host can do that.');
    if(data.type==='next'){if(r.phase==='answering')throw Error('Reveal this round first.');if(Object.values(r.players).filter(p=>p.online).length<2)throw Error('Invite at least one friend first.');const categories=Array.isArray(data.categories)?data.categories:[];let pool=questions.map((q,i)=>({...q,index:i})).filter(q=>(!categories.length||categories.includes(q.type))&&!r.used.includes(q.index));if(!pool.length){r.used=[];pool=questions.map((q,i)=>({...q,index:i})).filter(q=>!categories.length||categories.includes(q.type));}if(!pool.length)throw Error('Select a question category.');const q=pool[Math.floor(Math.random()*pool.length)];r.used.push(q.index);r.question=q;r.categories=categories;r.answers={};r.result=null;r.phase='answering';r.round++;}
-   else if(data.type==='reveal'){if(r.phase!=='answering')throw Error('This round has already been revealed.');if(Object.keys(r.answers).length<2)throw Error('Need at least two answers.');r.result={...herd(r.answers),answers:{...r.answers}};for(const winner of r.result.winners)r.players[winner].score++;r.phase='revealed';}
+   else if(data.type==='reveal'){if(r.phase!=='answering')throw Error('This round has already been revealed.');if(Object.keys(r.answers).length<2)throw Error('Need at least two answers.');revealRound(r);}
    else if(data.type==='clear'){r.phase='lobby';r.question=null;r.answers={};r.result=null;}
    else throw Error('Unknown action.');
   }ack({ok:true});broadcast(r);
  }catch(e){ack({error:e.message});}});
- socket.on('disconnect',()=>{const r=rooms.get(socket.data.code);if(r){const p=r.players[socket.data.id];if(p)p.online=[...io.sockets.sockets.values()].some(s=>s.data.code===r.code&&s.data.id===p.id);broadcast(r);}});
+ socket.on('disconnect',()=>{const r=rooms.get(socket.data.code);if(r){const p=r.players[socket.data.id];if(p)p.online=[...io.sockets.sockets.values()].some(s=>s.data.code===r.code&&s.data.id===p.id);revealIfReady(r);broadcast(r);}});
 });
 // Rooms expire after 24 hours without anyone connected; state lasts for this server process.
 setInterval(()=>{for(const [code,r] of rooms){if(Object.values(r.players).some(p=>p.online))r.emptySince=null;else{r.emptySince??=Date.now();if(Date.now()-r.emptySince>86400000)rooms.delete(code);}}},60000).unref();
