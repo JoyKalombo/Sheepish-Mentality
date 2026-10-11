@@ -10,6 +10,18 @@ export async function prepareModel(){
 }
 export function cosine(a,b){let dot=0,aa=0,bb=0;for(let i=0;i<a.length;i++){dot+=a[i]*b[i];aa+=a[i]*a[i];bb+=b[i]*b[i];}return aa&&bb?dot/Math.sqrt(aa*bb):0;}
 const normalize = text => text.normalize('NFKC').trim().toLowerCase().replace(/\s+/g,' ');
+function ingForms(word){
+ if(!/^[a-z]{3,}$/.test(word))return [];
+ const forms=[word+'ing'];
+ if(word.endsWith('ie'))forms.push(word.slice(0,-2)+'ying');
+ else if(word.endsWith('e')&&!/(ee|ye|oe)$/.test(word))forms.push(word.slice(0,-1)+'ing');
+ if(/[aeiou][b-df-hj-np-tv-z]$/.test(word)&&!/[wxy]$/.test(word))forms.push(word+word.at(-1)+'ing');
+ return forms;
+}
+export function sameIngForm(a,b){
+ const left=normalize(a).split(/\b/),right=normalize(b).split(/\b/);
+ return left.length===right.length&&left.every((word,i)=>word===right[i]||ingForms(word).includes(right[i])||ingForms(right[i]).includes(word));
+}
 function conflicts(a,b){
  const negation=t=>/\b(no|not|never|without|cannot|can't|don't|doesn't|isn't|aren't|won't)\b/.test(t);
  const numbers=t=>t.match(/\d+(?:\.\d+)?/g)?.join(',')||'';
@@ -27,6 +39,7 @@ export async function semanticHerd(answers,type){
  const matches=(i,j)=>{
   if(texts[i]===texts[j])return true;
   if(!typed||conflicts(texts[i],texts[j]))return false;
+  if(sameIngForm(texts[i],texts[j]))return true;
   // A high typo score keeps minor spelling errors; embeddings compare meaning.
   return similarity(texts[i],texts[j])>=.9 || cosine(vectors[i],vectors[j])>=.78;
  };

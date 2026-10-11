@@ -1,6 +1,15 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {semanticHerd,prepareModel,cosine} from './semantic.js';
+import {semanticHerd,prepareModel,cosine,sameIngForm} from './semantic.js';
+test('base words and ing forms match including spelling changes and phrases',async()=>{
+ for(const [a,b] of [['walk','walking'],['run','running'],['swim','swimming'],['dance','dancing'],['lie','lying'],['ski','skiing'],['play football','playing football']]){
+  assert.ok(sameIngForm(a,b),`${a} / ${b}`);
+  assert.ok(sameIngForm(b,a));
+ }
+ for(const [a,b] of [['sing','sin'],['thing','thin'],['run','swimming'],['play tennis','playing football']])assert.equal(sameIngForm(a,b),false);
+ assert.deepEqual((await semanticHerd({a:'swim',b:'swimming'},'open')).winners,['a','b']);
+ assert.deepEqual((await semanticHerd({a:'swim',b:'swimming'},'mc')).winners,[]);
+});
 test('semantic cosine recognizes equivalent phrases but keeps other answers separate',async()=>{
  const result=await semanticHerd({a:'a car',b:'an automobile',c:'a banana'},'open');
  assert.deepEqual(result.winners,['a','b']);
